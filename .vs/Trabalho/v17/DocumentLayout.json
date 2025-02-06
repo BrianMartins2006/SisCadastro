@@ -1,69 +1,69 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\brian\\source\\repos\\Trabalho\\",
+  "WorkspaceRootPath": "C:\\Users\\12990980610\\source\\repos\\SisCadastro\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{40841091-A2A7-4F1E-8F66-271CB9C50C77}|Trabalho\\Trabalho.csproj|c:\\users\\brian\\source\\repos\\trabalho\\trabalho\\biblioteca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{40841091-A2A7-4F1E-8F66-271CB9C50C77}|Trabalho\\Trabalho.csproj|solutionrelative:trabalho\\biblioteca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{40841091-A2A7-4F1E-8F66-271CB9C50C77}|Trabalho\\Trabalho.csproj|C:\\Users\\brian\\source\\repos\\Trabalho\\trabalho\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{40841091-A2A7-4F1E-8F66-271CB9C50C77}|Trabalho\\Trabalho.csproj|solutionrelative:trabalho\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{40841091-A2A7-4F1E-8F66-271CB9C50C77}|Trabalho\\Trabalho.csproj|C:\\Users\\brian\\source\\repos\\Trabalho\\trabalho\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{40841091-A2A7-4F1E-8F66-271CB9C50C77}|Trabalho\\Trabalho.csproj|solutionrelative:trabalho\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{40841091-A2A7-4F1E-8F66-271CB9C50C77}|Trabalho\\Trabalho.csproj|C:\\Users\\brian\\source\\repos\\Trabalho\\trabalho\\conectabanco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{40841091-A2A7-4F1E-8F66-271CB9C50C77}|Trabalho\\Trabalho.csproj|C:\\Users\\12990980610\\source\\repos\\SisCadastro\\trabalho\\conectabanco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{40841091-A2A7-4F1E-8F66-271CB9C50C77}|Trabalho\\Trabalho.csproj|solutionrelative:trabalho\\conectabanco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{40841091-A2A7-4F1E-8F66-271CB9C50C77}|Trabalho\\Trabalho.csproj|C:\\Users\\brian\\source\\repos\\Trabalho\\trabalho\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{40841091-A2A7-4F1E-8F66-271CB9C50C77}|Trabalho\\Trabalho.csproj|solutionrelative:trabalho\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{40841091-A2A7-4F1E-8F66-271CB9C50C77}|Trabalho\\Trabalho.csproj|C:\\Users\\12990980610\\source\\repos\\SisCadastro\\trabalho\\biblioteca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40841091-A2A7-4F1E-8F66-271CB9C50C77}|Trabalho\\Trabalho.csproj|solutionrelative:trabalho\\biblioteca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{40841091-A2A7-4F1E-8F66-271CB9C50C77}|Trabalho\\Trabalho.csproj|C:\\Users\\brian\\source\\repos\\Trabalho\\trabalho\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{40841091-A2A7-4F1E-8F66-271CB9C50C77}|Trabalho\\Trabalho.csproj|solutionrelative:trabalho\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{40841091-A2A7-4F1E-8F66-271CB9C50C77}|Trabalho\\Trabalho.csproj|C:\\Users\\brian\\source\\repos\\Trabalho\\trabalho\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{40841091-A2A7-4F1E-8F66-271CB9C50C77}|Trabalho\\Trabalho.csproj|solutionrelative:trabalho\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{40841091-A2A7-4F1E-8F66-271CB9C50C77}|Trabalho\\Trabalho.csproj|C:\\Users\\brian\\source\\repos\\Trabalho\\trabalho\\forms1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{40841091-A2A7-4F1E-8F66-271CB9C50C77}|Trabalho\\Trabalho.csproj|solutionrelative:trabalho\\forms1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{40841091-A2A7-4F1E-8F66-271CB9C50C77}|Trabalho\\Trabalho.csproj|C:\\Users\\brian\\source\\repos\\Trabalho\\trabalho\\autera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{40841091-A2A7-4F1E-8F66-271CB9C50C77}|Trabalho\\Trabalho.csproj|solutionrelative:trabalho\\autera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{40841091-A2A7-4F1E-8F66-271CB9C50C77}|Trabalho\\Trabalho.csproj|C:\\Users\\brian\\source\\repos\\Trabalho\\trabalho\\addcategoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{40841091-A2A7-4F1E-8F66-271CB9C50C77}|Trabalho\\Trabalho.csproj|solutionrelative:trabalho\\addcategoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{40841091-A2A7-4F1E-8F66-271CB9C50C77}|Trabalho\\Trabalho.csproj|C:\\Users\\brian\\source\\repos\\Trabalho\\trabalho\\addcategoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{40841091-A2A7-4F1E-8F66-271CB9C50C77}|Trabalho\\Trabalho.csproj|solutionrelative:trabalho\\addcategoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{40841091-A2A7-4F1E-8F66-271CB9C50C77}|Trabalho\\Trabalho.csproj|C:\\Users\\brian\\source\\repos\\Trabalho\\trabalho\\forms1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{40841091-A2A7-4F1E-8F66-271CB9C50C77}|Trabalho\\Trabalho.csproj|C:\\Users\\12990980610\\source\\repos\\SisCadastro\\trabalho\\forms1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{40841091-A2A7-4F1E-8F66-271CB9C50C77}|Trabalho\\Trabalho.csproj|solutionrelative:trabalho\\forms1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{40841091-A2A7-4F1E-8F66-271CB9C50C77}|Trabalho\\Trabalho.csproj|C:\\Users\\brian\\source\\repos\\Trabalho\\trabalho\\autera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{40841091-A2A7-4F1E-8F66-271CB9C50C77}|Trabalho\\Trabalho.csproj|C:\\Users\\12990980610\\source\\repos\\SisCadastro\\trabalho\\forms1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{40841091-A2A7-4F1E-8F66-271CB9C50C77}|Trabalho\\Trabalho.csproj|solutionrelative:trabalho\\forms1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40841091-A2A7-4F1E-8F66-271CB9C50C77}|Trabalho\\Trabalho.csproj|c:\\users\\12990980610\\source\\repos\\siscadastro\\trabalho\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{40841091-A2A7-4F1E-8F66-271CB9C50C77}|Trabalho\\Trabalho.csproj|solutionrelative:trabalho\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40841091-A2A7-4F1E-8F66-271CB9C50C77}|Trabalho\\Trabalho.csproj|C:\\Users\\12990980610\\source\\repos\\SisCadastro\\trabalho\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40841091-A2A7-4F1E-8F66-271CB9C50C77}|Trabalho\\Trabalho.csproj|solutionrelative:trabalho\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40841091-A2A7-4F1E-8F66-271CB9C50C77}|Trabalho\\Trabalho.csproj|C:\\Users\\12990980610\\source\\repos\\SisCadastro\\trabalho\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{40841091-A2A7-4F1E-8F66-271CB9C50C77}|Trabalho\\Trabalho.csproj|solutionrelative:trabalho\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40841091-A2A7-4F1E-8F66-271CB9C50C77}|Trabalho\\Trabalho.csproj|C:\\Users\\12990980610\\source\\repos\\SisCadastro\\trabalho\\addcategoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{40841091-A2A7-4F1E-8F66-271CB9C50C77}|Trabalho\\Trabalho.csproj|solutionrelative:trabalho\\addcategoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40841091-A2A7-4F1E-8F66-271CB9C50C77}|Trabalho\\Trabalho.csproj|C:\\Users\\12990980610\\source\\repos\\SisCadastro\\trabalho\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40841091-A2A7-4F1E-8F66-271CB9C50C77}|Trabalho\\Trabalho.csproj|solutionrelative:trabalho\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40841091-A2A7-4F1E-8F66-271CB9C50C77}|Trabalho\\Trabalho.csproj|C:\\Users\\12990980610\\source\\repos\\SisCadastro\\trabalho\\autera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{40841091-A2A7-4F1E-8F66-271CB9C50C77}|Trabalho\\Trabalho.csproj|solutionrelative:trabalho\\autera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{40841091-A2A7-4F1E-8F66-271CB9C50C77}|Trabalho\\Trabalho.csproj|C:\\Users\\brian\\source\\repos\\Trabalho\\trabalho\\produtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{40841091-A2A7-4F1E-8F66-271CB9C50C77}|Trabalho\\Trabalho.csproj|C:\\Users\\12990980610\\source\\repos\\SisCadastro\\trabalho\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40841091-A2A7-4F1E-8F66-271CB9C50C77}|Trabalho\\Trabalho.csproj|solutionrelative:trabalho\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40841091-A2A7-4F1E-8F66-271CB9C50C77}|Trabalho\\Trabalho.csproj|C:\\Users\\12990980610\\source\\repos\\SisCadastro\\trabalho\\produtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{40841091-A2A7-4F1E-8F66-271CB9C50C77}|Trabalho\\Trabalho.csproj|solutionrelative:trabalho\\produtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{40841091-A2A7-4F1E-8F66-271CB9C50C77}|Trabalho\\Trabalho.csproj|C:\\Users\\brian\\source\\repos\\Trabalho\\trabalho\\forms1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{40841091-A2A7-4F1E-8F66-271CB9C50C77}|Trabalho\\Trabalho.csproj|C:\\Users\\12990980610\\source\\repos\\SisCadastro\\trabalho\\autera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{40841091-A2A7-4F1E-8F66-271CB9C50C77}|Trabalho\\Trabalho.csproj|solutionrelative:trabalho\\autera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40841091-A2A7-4F1E-8F66-271CB9C50C77}|Trabalho\\Trabalho.csproj|C:\\Users\\12990980610\\source\\repos\\SisCadastro\\trabalho\\addcategoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40841091-A2A7-4F1E-8F66-271CB9C50C77}|Trabalho\\Trabalho.csproj|solutionrelative:trabalho\\addcategoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40841091-A2A7-4F1E-8F66-271CB9C50C77}|Trabalho\\Trabalho.csproj|C:\\Users\\12990980610\\source\\repos\\SisCadastro\\trabalho\\forms1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{40841091-A2A7-4F1E-8F66-271CB9C50C77}|Trabalho\\Trabalho.csproj|solutionrelative:trabalho\\forms1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{40841091-A2A7-4F1E-8F66-271CB9C50C77}|Trabalho\\Trabalho.csproj|C:\\Users\\brian\\source\\repos\\Trabalho\\trabalho\\clientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{40841091-A2A7-4F1E-8F66-271CB9C50C77}|Trabalho\\Trabalho.csproj|C:\\Users\\12990980610\\source\\repos\\SisCadastro\\trabalho\\clientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{40841091-A2A7-4F1E-8F66-271CB9C50C77}|Trabalho\\Trabalho.csproj|solutionrelative:trabalho\\clientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -74,17 +74,67 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 10,
+              "Title": "Menu.cs",
+              "DocumentMoniker": "C:\\Users\\12990980610\\source\\repos\\SisCadastro\\Trabalho\\Menu.cs",
+              "RelativeDocumentMoniker": "Trabalho\\Menu.cs",
+              "ToolTip": "C:\\Users\\12990980610\\source\\repos\\SisCadastro\\Trabalho\\Menu.cs",
+              "RelativeToolTip": "Trabalho\\Menu.cs",
+              "ViewState": "AgIAAHYAAAAAAAAAAAAewCUAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-05T16:01:59.534Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Login.cs",
+              "DocumentMoniker": "C:\\Users\\12990980610\\source\\repos\\SisCadastro\\Trabalho\\Login.cs",
+              "RelativeDocumentMoniker": "Trabalho\\Login.cs",
+              "ToolTip": "C:\\Users\\12990980610\\source\\repos\\SisCadastro\\Trabalho\\Login.cs",
+              "RelativeToolTip": "Trabalho\\Login.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAgwCgAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T03:22:43.62Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Login.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\12990980610\\source\\repos\\SisCadastro\\Trabalho\\Login.cs",
+              "RelativeDocumentMoniker": "Trabalho\\Login.cs",
+              "ToolTip": "C:\\Users\\12990980610\\source\\repos\\SisCadastro\\Trabalho\\Login.cs [Design]",
+              "RelativeToolTip": "Trabalho\\Login.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T03:10:24.809Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Forms1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\12990980610\\source\\repos\\SisCadastro\\Trabalho\\Forms1.cs",
+              "RelativeDocumentMoniker": "Trabalho\\Forms1.cs",
+              "ToolTip": "C:\\Users\\12990980610\\source\\repos\\SisCadastro\\Trabalho\\Forms1.cs [Design]",
+              "RelativeToolTip": "Trabalho\\Forms1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-31T14:22:25.559Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Biblioteca.cs",
-              "DocumentMoniker": "C:\\Users\\brian\\source\\repos\\Trabalho\\Trabalho\\Biblioteca.cs",
+              "DocumentMoniker": "C:\\Users\\12990980610\\source\\repos\\SisCadastro\\Trabalho\\Biblioteca.cs",
               "RelativeDocumentMoniker": "Trabalho\\Biblioteca.cs",
-              "ToolTip": "C:\\Users\\brian\\source\\repos\\Trabalho\\Trabalho\\Biblioteca.cs",
+              "ToolTip": "C:\\Users\\12990980610\\source\\repos\\SisCadastro\\Trabalho\\Biblioteca.cs",
               "RelativeToolTip": "Trabalho\\Biblioteca.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAowB0AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-09T03:55:43.871Z",
               "EditorCaption": ""
@@ -92,177 +142,142 @@
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Login.cs",
-              "DocumentMoniker": "C:\\Users\\brian\\source\\repos\\Trabalho\\Trabalho\\Login.cs",
-              "RelativeDocumentMoniker": "Trabalho\\Login.cs",
-              "ToolTip": "C:\\Users\\brian\\source\\repos\\Trabalho\\Trabalho\\Login.cs",
-              "RelativeToolTip": "Trabalho\\Login.cs",
-              "ViewState": "AgIAABkAAAAAAAAAAAAqwCwAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-09T03:22:43.62Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Login.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\brian\\source\\repos\\Trabalho\\Trabalho\\Login.cs",
-              "RelativeDocumentMoniker": "Trabalho\\Login.cs",
-              "ToolTip": "C:\\Users\\brian\\source\\repos\\Trabalho\\Trabalho\\Login.cs [Design]",
-              "RelativeToolTip": "Trabalho\\Login.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-09T03:10:24.809Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Menu.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\brian\\source\\repos\\Trabalho\\Trabalho\\Menu.cs",
-              "RelativeDocumentMoniker": "Trabalho\\Menu.cs",
-              "ToolTip": "C:\\Users\\brian\\source\\repos\\Trabalho\\Trabalho\\Menu.cs [Design]",
-              "RelativeToolTip": "Trabalho\\Menu.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-05T15:33:54.592Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Forms1.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\brian\\source\\repos\\Trabalho\\Trabalho\\Forms1.cs",
+              "Title": "Forms1.cs",
+              "DocumentMoniker": "C:\\Users\\12990980610\\source\\repos\\SisCadastro\\Trabalho\\Forms1.cs",
               "RelativeDocumentMoniker": "Trabalho\\Forms1.cs",
-              "ToolTip": "C:\\Users\\brian\\source\\repos\\Trabalho\\Trabalho\\Forms1.cs [Design]",
-              "RelativeToolTip": "Trabalho\\Forms1.cs [Design]",
+              "ToolTip": "C:\\Users\\12990980610\\source\\repos\\SisCadastro\\Trabalho\\Forms1.cs",
+              "RelativeToolTip": "Trabalho\\Forms1.cs",
+              "ViewState": "AgIAAIEAAAAAAAAAAAAowJYAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-31T14:22:25.559Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "conectabanco.cs",
-              "DocumentMoniker": "C:\\Users\\brian\\source\\repos\\Trabalho\\Trabalho\\conectabanco.cs",
-              "RelativeDocumentMoniker": "Trabalho\\conectabanco.cs",
-              "ToolTip": "C:\\Users\\brian\\source\\repos\\Trabalho\\Trabalho\\conectabanco.cs",
-              "RelativeToolTip": "Trabalho\\conectabanco.cs",
-              "ViewState": "AgIAAIwAAAAAAAAAAAAAAJcAAABCAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-04T16:49:57.775Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Menu.cs",
-              "DocumentMoniker": "C:\\Users\\brian\\source\\repos\\Trabalho\\Trabalho\\Menu.cs",
-              "RelativeDocumentMoniker": "Trabalho\\Menu.cs",
-              "ToolTip": "C:\\Users\\brian\\source\\repos\\Trabalho\\Trabalho\\Menu.cs",
-              "RelativeToolTip": "Trabalho\\Menu.cs",
-              "ViewState": "AgIAABcAAAAAAAAAAAAQwCUAAAAKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-05T16:01:59.534Z"
+              "WhenOpened": "2025-01-05T17:33:19.127Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 9,
-              "Title": "Addcategoria.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\brian\\source\\repos\\Trabalho\\Trabalho\\Addcategoria.cs",
-              "RelativeDocumentMoniker": "Trabalho\\Addcategoria.cs",
-              "ToolTip": "C:\\Users\\brian\\source\\repos\\Trabalho\\Trabalho\\Addcategoria.cs [Design]",
-              "RelativeToolTip": "Trabalho\\Addcategoria.cs [Design]",
+              "Title": "Autera.cs",
+              "DocumentMoniker": "C:\\Users\\12990980610\\source\\repos\\SisCadastro\\Trabalho\\Autera.cs",
+              "RelativeDocumentMoniker": "Trabalho\\Autera.cs",
+              "ToolTip": "C:\\Users\\12990980610\\source\\repos\\SisCadastro\\Trabalho\\Autera.cs",
+              "RelativeToolTip": "Trabalho\\Autera.cs",
+              "ViewState": "AgIAAHkAAAAAAAAAAAAkwJIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-09T01:44:48.339Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\brian\\source\\repos\\Trabalho\\Trabalho\\Program.cs",
-              "RelativeDocumentMoniker": "Trabalho\\Program.cs",
-              "ToolTip": "C:\\Users\\brian\\source\\repos\\Trabalho\\Trabalho\\Program.cs",
-              "RelativeToolTip": "Trabalho\\Program.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-07T17:48:06.61Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "Forms1.cs",
-              "DocumentMoniker": "C:\\Users\\brian\\source\\repos\\Trabalho\\Trabalho\\Forms1.cs",
-              "RelativeDocumentMoniker": "Trabalho\\Forms1.cs",
-              "ToolTip": "C:\\Users\\brian\\source\\repos\\Trabalho\\Trabalho\\Forms1.cs",
-              "RelativeToolTip": "Trabalho\\Forms1.cs",
-              "ViewState": "AgIAAE8AAAAAAAAAAAAqwGQAAAAaAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-05T17:33:19.127Z"
+              "WhenOpened": "2025-01-07T14:37:48.817Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
-              "Title": "Autera.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\brian\\source\\repos\\Trabalho\\Trabalho\\Autera.cs",
-              "RelativeDocumentMoniker": "Trabalho\\Autera.cs",
-              "ToolTip": "C:\\Users\\brian\\source\\repos\\Trabalho\\Trabalho\\Autera.cs [Design]",
-              "RelativeToolTip": "Trabalho\\Autera.cs [Design]",
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\12990980610\\source\\repos\\SisCadastro\\Trabalho\\Program.cs",
+              "RelativeDocumentMoniker": "Trabalho\\Program.cs",
+              "ToolTip": "C:\\Users\\12990980610\\source\\repos\\SisCadastro\\Trabalho\\Program.cs",
+              "RelativeToolTip": "Trabalho\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-07T14:37:38.354Z"
+              "WhenOpened": "2025-01-07T17:48:06.61Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Addcategoria.cs",
-              "DocumentMoniker": "C:\\Users\\brian\\source\\repos\\Trabalho\\Trabalho\\Addcategoria.cs",
-              "RelativeDocumentMoniker": "Trabalho\\Addcategoria.cs",
-              "ToolTip": "C:\\Users\\brian\\source\\repos\\Trabalho\\Trabalho\\Addcategoria.cs",
-              "RelativeToolTip": "Trabalho\\Addcategoria.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAgwCEAAAAkAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "conectabanco.cs",
+              "DocumentMoniker": "C:\\Users\\12990980610\\source\\repos\\SisCadastro\\Trabalho\\conectabanco.cs",
+              "RelativeDocumentMoniker": "Trabalho\\conectabanco.cs",
+              "ToolTip": "C:\\Users\\12990980610\\source\\repos\\SisCadastro\\Trabalho\\conectabanco.cs",
+              "RelativeToolTip": "Trabalho\\conectabanco.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-09T01:50:46.539Z"
+              "WhenOpened": "2025-01-04T16:49:57.775Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Produtos.cs",
+              "DocumentMoniker": "C:\\Users\\12990980610\\source\\repos\\SisCadastro\\Trabalho\\Produtos.cs",
+              "RelativeDocumentMoniker": "Trabalho\\Produtos.cs",
+              "ToolTip": "C:\\Users\\12990980610\\source\\repos\\SisCadastro\\Trabalho\\Produtos.cs",
+              "RelativeToolTip": "Trabalho\\Produtos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-06T17:38:44.394Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Addcategoria.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\12990980610\\source\\repos\\SisCadastro\\Trabalho\\Addcategoria.cs",
+              "RelativeDocumentMoniker": "Trabalho\\Addcategoria.cs",
+              "ToolTip": "C:\\Users\\12990980610\\source\\repos\\SisCadastro\\Trabalho\\Addcategoria.cs [Design]",
+              "RelativeToolTip": "Trabalho\\Addcategoria.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T01:44:48.339Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Menu.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\12990980610\\source\\repos\\SisCadastro\\Trabalho\\Menu.cs",
+              "RelativeDocumentMoniker": "Trabalho\\Menu.cs",
+              "ToolTip": "C:\\Users\\12990980610\\source\\repos\\SisCadastro\\Trabalho\\Menu.cs [Design]",
+              "RelativeToolTip": "Trabalho\\Menu.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-05T15:33:54.592Z",
+              "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
               "DocumentIndex": 12,
-              "Title": "Autera.cs",
-              "DocumentMoniker": "C:\\Users\\brian\\source\\repos\\Trabalho\\Trabalho\\Autera.cs",
+              "Title": "Autera.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\12990980610\\source\\repos\\SisCadastro\\Trabalho\\Autera.cs",
               "RelativeDocumentMoniker": "Trabalho\\Autera.cs",
-              "ToolTip": "C:\\Users\\brian\\source\\repos\\Trabalho\\Trabalho\\Autera.cs*",
-              "RelativeToolTip": "Trabalho\\Autera.cs*",
-              "ViewState": "AgIAAIUAAAAAAAAAAAAAAHsAAAAJAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\12990980610\\source\\repos\\SisCadastro\\Trabalho\\Autera.cs [Design]",
+              "RelativeToolTip": "Trabalho\\Autera.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-07T14:37:48.817Z"
+              "WhenOpened": "2025-01-07T14:37:38.354Z",
+              "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
               "DocumentIndex": 13,
-              "Title": "Produtos.cs",
-              "DocumentMoniker": "C:\\Users\\brian\\source\\repos\\Trabalho\\Trabalho\\Produtos.cs",
-              "RelativeDocumentMoniker": "Trabalho\\Produtos.cs",
-              "ToolTip": "C:\\Users\\brian\\source\\repos\\Trabalho\\Trabalho\\Produtos.cs",
-              "RelativeToolTip": "Trabalho\\Produtos.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Title": "Addcategoria.cs",
+              "DocumentMoniker": "C:\\Users\\12990980610\\source\\repos\\SisCadastro\\Trabalho\\Addcategoria.cs",
+              "RelativeDocumentMoniker": "Trabalho\\Addcategoria.cs",
+              "ToolTip": "C:\\Users\\12990980610\\source\\repos\\SisCadastro\\Trabalho\\Addcategoria.cs",
+              "RelativeToolTip": "Trabalho\\Addcategoria.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAgwCEAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-06T17:38:44.394Z"
+              "WhenOpened": "2025-01-09T01:50:46.539Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 14,
               "Title": "Forms1.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\brian\\source\\repos\\Trabalho\\Trabalho\\Forms1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\12990980610\\source\\repos\\SisCadastro\\Trabalho\\Forms1.Designer.cs",
               "RelativeDocumentMoniker": "Trabalho\\Forms1.Designer.cs",
-              "ToolTip": "C:\\Users\\brian\\source\\repos\\Trabalho\\Trabalho\\Forms1.Designer.cs",
+              "ToolTip": "C:\\Users\\12990980610\\source\\repos\\SisCadastro\\Trabalho\\Forms1.Designer.cs",
               "RelativeToolTip": "Trabalho\\Forms1.Designer.cs",
               "ViewState": "AgIAABIAAAAAAAAAAAAcwOkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-06T18:39:39.046Z"
+              "WhenOpened": "2025-01-06T18:39:39.046Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 15,
               "Title": "clientes.cs",
-              "DocumentMoniker": "C:\\Users\\brian\\source\\repos\\Trabalho\\Trabalho\\clientes.cs",
+              "DocumentMoniker": "C:\\Users\\12990980610\\source\\repos\\SisCadastro\\Trabalho\\clientes.cs",
               "RelativeDocumentMoniker": "Trabalho\\clientes.cs",
-              "ToolTip": "C:\\Users\\brian\\source\\repos\\Trabalho\\Trabalho\\clientes.cs",
+              "ToolTip": "C:\\Users\\12990980610\\source\\repos\\SisCadastro\\Trabalho\\clientes.cs",
               "RelativeToolTip": "Trabalho\\clientes.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-05T17:42:49.401Z"
+              "WhenOpened": "2025-01-05T17:42:49.401Z",
+              "EditorCaption": ""
             }
           ]
         }

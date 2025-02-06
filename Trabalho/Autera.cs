@@ -141,5 +141,10 @@ namespace Trabalho
                dglista.Rows[linha].Cells["Preco"].Value.ToString();
 
         }
+
+        private void dglista_CellContentClick(object sender, DataGridViewCellEventArgs e)
+        {
+
+        }
     }
 }

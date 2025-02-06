@@ -34,8 +34,11 @@
             this.txtusernome = new System.Windows.Forms.TextBox();
             this.label1 = new System.Windows.Forms.Label();
             this.txtsenha = new System.Windows.Forms.TextBox();
-            this.label2 = new System.Windows.Forms.Label();
             this.btlogin = new System.Windows.Forms.Button();
+            this.pictureBox1 = new System.Windows.Forms.PictureBox();
+            this.pictureBox2 = new System.Windows.Forms.PictureBox();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox2)).BeginInit();
             this.SuspendLayout();
             // 
             // btfechar
@@ -59,17 +62,18 @@
             // 
             this.label3.AutoSize = true;
             this.label3.BackColor = System.Drawing.Color.Transparent;
-            this.label3.Font = new System.Drawing.Font("Arial Rounded MT Bold", 14.25F, System.Drawing.FontStyle.Italic, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label3.Font = new System.Drawing.Font("Microsoft Sans Serif", 14.25F, System.Drawing.FontStyle.Italic, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label3.ForeColor = System.Drawing.Color.Goldenrod;
-            this.label3.Location = new System.Drawing.Point(48, 80);
+            this.label3.Location = new System.Drawing.Point(48, 148);
             this.label3.Name = "label3";
-            this.label3.Size = new System.Drawing.Size(63, 22);
+            this.label3.Size = new System.Drawing.Size(62, 24);
             this.label3.TabIndex = 14;
             this.label3.Text = "Nome";
+            this.label3.Click += new System.EventHandler(this.label3_Click);
             // 
             // txtusernome
             // 
-            this.txtusernome.Location = new System.Drawing.Point(52, 119);
+            this.txtusernome.Location = new System.Drawing.Point(52, 191);
             this.txtusernome.Name = "txtusernome";
             this.txtusernome.Size = new System.Drawing.Size(343, 20);
             this.txtusernome.TabIndex = 15;
@@ -79,35 +83,22 @@
             // 
             this.label1.AutoSize = true;
             this.label1.BackColor = System.Drawing.Color.Transparent;
-            this.label1.Font = new System.Drawing.Font("Arial Rounded MT Bold", 14.25F, System.Drawing.FontStyle.Italic, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label1.Font = new System.Drawing.Font("Microsoft Sans Serif", 14.25F, System.Drawing.FontStyle.Italic, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label1.ForeColor = System.Drawing.Color.Goldenrod;
-            this.label1.Location = new System.Drawing.Point(48, 170);
+            this.label1.Location = new System.Drawing.Point(48, 228);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(67, 22);
+            this.label1.Size = new System.Drawing.Size(65, 24);
             this.label1.TabIndex = 16;
             this.label1.Text = "Senha";
             // 
             // txtsenha
             // 
-            this.txtsenha.Location = new System.Drawing.Point(52, 209);
+            this.txtsenha.Location = new System.Drawing.Point(52, 265);
             this.txtsenha.Name = "txtsenha";
             this.txtsenha.PasswordChar = '*';
             this.txtsenha.Size = new System.Drawing.Size(343, 20);
             this.txtsenha.TabIndex = 17;
             this.txtsenha.TextChanged += new System.EventHandler(this.txtsenha_TextChanged);
-            // 
-            // label2
-            // 
-            this.label2.AutoSize = true;
-            this.label2.BackColor = System.Drawing.Color.Transparent;
-            this.label2.Font = new System.Drawing.Font("Bahnschrift", 20.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label2.ForeColor = System.Drawing.Color.Cyan;
-            this.label2.Location = new System.Drawing.Point(164, 9);
-            this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(82, 33);
-            this.label2.TabIndex = 18;
-            this.label2.Text = "Login";
-            this.label2.Click += new System.EventHandler(this.label2_Click);
             // 
             // btlogin
             // 
@@ -115,7 +106,7 @@
             this.btlogin.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btlogin.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btlogin.ForeColor = System.Drawing.SystemColors.ControlLightLight;
-            this.btlogin.Location = new System.Drawing.Point(170, 266);
+            this.btlogin.Location = new System.Drawing.Point(170, 320);
             this.btlogin.Name = "btlogin";
             this.btlogin.Size = new System.Drawing.Size(91, 27);
             this.btlogin.TabIndex = 19;
@@ -124,24 +115,47 @@
             this.btlogin.UseVisualStyleBackColor = false;
             this.btlogin.Click += new System.EventHandler(this.btlogin_Click);
             // 
+            // pictureBox1
+            // 
+            this.pictureBox1.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox1.Image")));
+            this.pictureBox1.Location = new System.Drawing.Point(-169, -194);
+            this.pictureBox1.Name = "pictureBox1";
+            this.pictureBox1.Size = new System.Drawing.Size(758, 525);
+            this.pictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
+            this.pictureBox1.TabIndex = 20;
+            this.pictureBox1.TabStop = false;
+            this.pictureBox1.Click += new System.EventHandler(this.pictureBox1_Click);
+            // 
+            // pictureBox2
+            // 
+            this.pictureBox2.Location = new System.Drawing.Point(48, 25);
+            this.pictureBox2.Name = "pictureBox2";
+            this.pictureBox2.Size = new System.Drawing.Size(8, 8);
+            this.pictureBox2.TabIndex = 21;
+            this.pictureBox2.TabStop = false;
+            // 
             // Login
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
             this.ClientSize = new System.Drawing.Size(430, 394);
+            this.Controls.Add(this.pictureBox2);
             this.Controls.Add(this.btlogin);
-            this.Controls.Add(this.label2);
             this.Controls.Add(this.txtsenha);
             this.Controls.Add(this.label1);
             this.Controls.Add(this.txtusernome);
             this.Controls.Add(this.label3);
             this.Controls.Add(this.btfechar);
+            this.Controls.Add(this.pictureBox1);
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;
             this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.Name = "Login";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Login";
+            this.Load += new System.EventHandler(this.Login_Load);
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox2)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -154,7 +168,8 @@
         private System.Windows.Forms.TextBox txtusernome;
         private System.Windows.Forms.Label label1;
         private System.Windows.Forms.TextBox txtsenha;
-        private System.Windows.Forms.Label label2;
         private System.Windows.Forms.Button btlogin;
+        private System.Windows.Forms.PictureBox pictureBox1;
+        private System.Windows.Forms.PictureBox pictureBox2;
     }
 }

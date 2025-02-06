@@ -131,7 +131,7 @@ namespace Trabalho
 
         }
 
-        private void addimagem_Click(object sender, EventArgs e)
+        /*private void addimagem_Click(object sender, EventArgs e)
         {
             if(txtnome.Text == "")
             {
@@ -148,8 +148,8 @@ namespace Trabalho
             {
                 pictureBox1.Image = Image.FromFile(caixa.FileName);
             }
-            
-        }
+           pra add imagem 
+        }*/
 
         private void button1_Click_1(object sender, EventArgs e)
         {
@@ -157,6 +157,11 @@ namespace Trabalho
         }
 
         private void cbcategoria_SelectedIndexChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void pictureBox1_Click(object sender, EventArgs e)
         {
 
         }
